@@ -4,7 +4,6 @@ using SColor = System.Drawing.Color;
 
 namespace SkillFlow;
 
-
 public class GoobyPLS : BaseRotation 
 {
     public GoobyPLS(Plugin plugin) : base(plugin) { }
